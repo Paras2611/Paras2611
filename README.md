@@ -23,7 +23,7 @@ A full-featured ASP.NET Core MVC web application designed to streamline patient-
 
 ---
 
-## 💼 Other Projects (Optional)
+## 💼 Other Projects
 
 ### 📊 Student Result Management System
 A lightweight C# desktop app to manage results, grades, and reports for academic institutes.
@@ -42,7 +42,7 @@ Basic .NET Core Web App for tracking stock, vendors, and purchases with reportin
 ---
 
 ## 📫 Connect With Me
-- Email: paraspatil@example.com
+- Email: pjagadish781@gmail.com
 - LinkedIn: [linkedin.com/in/paraspatil](https://linkedin.com/in/paraspatil)
 - Portfolio (Coming Soon...)
 
